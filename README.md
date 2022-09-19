@@ -8,3 +8,9 @@ Ani Srikanth
 
 #### Activity 3
 ![image](https://user-images.githubusercontent.com/14436239/190315977-716d8d46-737c-48dc-a272-81a2a0921b62.png)
+
+#### Activity 4
+https://github.com/deandyu/ECE444-F2022-Lab1
+
+![image](https://user-images.githubusercontent.com/14436239/191131200-7a7587f2-c21f-48fc-9044-64602f4fcac5.png)
+![image](https://user-images.githubusercontent.com/14436239/191131240-e6717b1d-c056-4628-a7b5-7a37a4c90100.png)
