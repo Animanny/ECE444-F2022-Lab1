@@ -19,3 +19,14 @@ https://github.com/deandyu/ECE444-F2022-Lab1
 
 ![image](https://user-images.githubusercontent.com/14436239/191159007-2fc6b10b-d78d-4424-bf53-afb7f1a8533e.png)
 ![image](https://user-images.githubusercontent.com/14436239/191159039-860d141f-a4da-496a-a2dd-ddf4d607e906.png)
+
+#### Activity 6
+https://github.com/Animanny/ECE444-F2022-EP
+
+#### Activity 7
+![image](https://user-images.githubusercontent.com/14436239/191163991-992aa282-e90c-46d4-8cb3-05ed4dde7c91.png)
+![image](https://user-images.githubusercontent.com/14436239/191164009-37af23d5-3dcc-4d80-837d-bbbfc0d7aa1d.png)
+
+#### Activity 8
+![image](https://user-images.githubusercontent.com/14436239/191164759-a61b9551-2084-4f06-b5d9-6eed0cff7f5d.png)
+![image](https://user-images.githubusercontent.com/14436239/191164908-9a8e0bb4-5215-4409-b993-155161bf0e7e.png)
